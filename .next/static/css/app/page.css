@@ -1,0 +1,21 @@
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[11].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[11].oneOf[9].use[5]!./src/app/index.module.scss ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.app_root__N6CS0 > div:last-child {
+  border: 3px solid rgb(121, 121, 241);
+}
+
+.app_scroll__vbya3::-webkit-scrollbar {
+  width: 8px;
+}
+
+.app_scroll__vbya3::-webkit-scrollbar-track {
+  background-color: #ffffff;
+}
+
+.app_scroll__vbya3::-webkit-scrollbar-thumb {
+  background-color: #7e939c;
+  border: 1.5px solid #ffffff;
+  outline: none;
+  border-radius: 6px;
+}
